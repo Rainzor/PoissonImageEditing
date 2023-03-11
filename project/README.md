@@ -11,11 +11,11 @@
 
 ### 测试图片
 
-本次作业涉及的测试图片下载方式参考 [data/README.md](data/README.md) 
+涉及的测试图片下载方式参考 [data/README.md](data/README.md) 
 
 ### OpenCV 配置
 
-本次实验必须用到 OpenCV，**配置方式**和**使用示例**务必参考项目 [documents/opencv_example](../documents/opencv_example) 
+实验必须用到 OpenCV，**配置方式**和**使用示例**务必参考项目 [documents/opencv_example](../documents/opencv_example) 
 
 ### Eigen 配置
 
@@ -84,4 +84,5 @@
 
 - CMake-GUI 在 configure 的时候，Optional platform for generator 要选 **x64** 
 - CMake 一开始会拉取 [UCMake](https://github.com/Ubpa/UCMake)，所以会稍微久一点，拉取的 UCMake 位于 `build/_deps/`，内含一些自定义函数 `Ubpa_xxx` 
+- 如果Cmake config 失败可能是因为网络环境问题，需要多次尝试，直到没有报错为止
 
