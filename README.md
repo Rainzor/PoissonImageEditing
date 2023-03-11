@@ -13,11 +13,11 @@
 
 ### (1) documents` [->](documents/) 
 
-本次作业的要求说明和一些辅助资料
+项目说明和一些辅助资料
 
 ### (2) project` [->](project/) 
 
-本次作业的基础代码框架
+项目代码框架（Completed）
 
 ## Demo
 
