@@ -1,23 +1,23 @@
 # Poisson Image Editing
 
-- 实现 Poisson Image Editing 算法
-- 实现多边形光栅化的[扫描线转换算法](documents/ScanningLine.md) 
-- 学习使用Eigen库求解大型稀疏方程组
-- 学习使用 OpenCV
-- 实时拖动区域显示结果（Optional）
-  - 矩阵预分解
+- Implement the Poisson Image Editing algorithm
+- Implement the Scanline Conversion algorithm for polygon rasterization
+- Learn to solve large sparse systems of equations using the Eigen library
+- Learn to use OpenCV
+- Real-time drag region display results (optional)
+- Matrix factorization
 
-## 提供的材料
+## The materials provided.
 
-根据上述要求和方法根据两个文件夹`(1) documents`和`(2) project`的内容进行练习。
+Practice according to the above requirements and methods based on the contents of two folders, "(1) documents" and "(2) project".
 
 ### (1) documents` [->](documents/) 
 
-项目说明和一些辅助资料
+Project description and some supporting materials.
 
 ### (2) project` [->](project/) 
 
-项目代码框架（Completed）
+Project code framework（Completed）
 
 ## Demo
 
